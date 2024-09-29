@@ -50,7 +50,7 @@ Main area of expertise is **React** development. Continuously learning new techn
 ---
 
 ## 🎉 **Fun Fact**
-Did you know? The first computer virus was created in 1986 and was called "Brain." It was made by two brothers to protect their medical software!
+I read Books ! 📚
 
 ---
 
