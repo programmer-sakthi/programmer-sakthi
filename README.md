@@ -38,7 +38,7 @@
 ## 💼 **Projects**
 
 ### **Currently Working On**
-- [Digital Wardrobe App](https://github.com/programmer-sakthi/digital-wardrobe-app): A smart way to organize and manage your wardrobe, built with JavaScript and exploring Angular and Node.js.
+- [Digital Wardrobe App](digital-wardrobe-app.web.app): A smart way to organize and manage your wardrobe, built with JavaScript and exploring Angular and Node.js.
 
 ### **Other Notable Projects**
 - [React Appointment App](https://github.com/programmer-sakthi/react-appointment-app): A simple appointment scheduling app built with React.
