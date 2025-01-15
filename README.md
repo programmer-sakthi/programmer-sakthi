@@ -38,7 +38,7 @@
 ## 💼 **Projects**
 
 ### **Currently Working On**
-- [Digital Wardrobe App](digital-wardrobe-app.web.app): A smart way to organize and manage your wardrobe, built with JavaScript and exploring Angular and Node.js.
+- [School Assignment Tracker](https://github.com/programmer-sakthi/school-assignment-tracker): A smart way to track and manage assignments in school, built with Springboot and React.
 
 ### **Other Notable Projects**
 - [React Appointment App](https://github.com/programmer-sakthi/react-appointment-app): A simple appointment scheduling app built with React.
