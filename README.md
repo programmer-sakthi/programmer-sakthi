@@ -1,13 +1,26 @@
-<h1 align="center">👋 Hey there, I'm Sakthi Palanisamy</h1>
+<h1 align="center">🎮 Sakthi Palanisamy - Full-Stack Dev Questline</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
 
 <p align="center">
   <b>💻 Software Developer | 🧠 Problem Solver | 🚀 Lifelong Learner</b><br/>
-  <i>“Code. Build. Break. Learn. Repeat.”</i>
+  <i>"Code. Build. Break. Learn. Repeat. Respawn if needed."</i>
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🧙‍♂️ Level-Up Stats
+
+- 🧩 Solving logic puzzles IRL and in code
+- ⚔️ Frontend & Backend warrior (React, Spring Boot, Node.js)
+- 🎯 Code accuracy: 99.99% (crit hits included)
+- 💡 Loves side quests: dev tools, performance, UI/UX
+
+---
+
+## 🏆 Trophy Wall of Awesomeness
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=programmer-sakthi&theme=radical&margin-w=10&no-frame=true"/>
@@ -15,40 +28,53 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Daily Dev Combo Meter
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer-sakthi&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-sakthi&layout=compact&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=programmer-sakthi&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 XP Charts
 
-### 👨‍💻 Languages & Supersets
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmer-sakthi&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-sakthi&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
-### 🌐 Front-End Development
+---
+
+## 📈 Commit Heatmap 🔥
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-sakthi&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧪 Tech Power-Ups
+
+### 🧠 Programming & Supersets
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚛️ Frontend Abilities
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄️ Backend & Database
+### 🧱 Backend Skills
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -56,7 +82,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🛠️ Tools Equipped
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -64,33 +90,52 @@
 
 ---
 
-## 🧠 Currently Learning
+## 📜 Active Quests (Currently Learning)
+- 🧠 **Next.js**
+- 🐍 **Selenium Automation**
+
+## 📘 Upcoming Quests (Planning to Learn)
+- 💡 **Remix**
+- 🧠 **Machine Learning**
+- ☁️ **Cloud (AWS, Azure, etc.)**
+
+---
+
+## 🚀 Current Missions
+
+### 🔨 Ongoing
+- 🔗 [School Assignment Tracker](https://github.com/programmer-sakthi/school-assignment-tracker) — Manage assignments like a boss using React + Spring Boot.
+
+### ✅ Completed Missions
+- 🔗 [React Appointment App](https://github.com/programmer-sakthi/react-appointment-app)
+- 🔗 [React Meetup App](https://github.com/programmer-sakthi/react-meetup-app)
+
+---
+
+## 🎯 Ultimate Moves (Expertise)
+
+- ⚔️ Full-Stack Slayer: React ⚛️ + Spring Boot 🍃 + Node 🟢
+- 🛡️ Clean Code Champion
+- 💬 Fluent in front-end feels and back-end logic
+- 💡 Debugging like Neo in the Matrix 🕶️
+
+---
+
+## 💬 Quote of the Day
+
 <p>
-  Next.js • Selenium
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 🧭 Planning to Learn
-<p>
-  Remix • Machine Learning • Cloud (AWS, Azure, etc.)
+## 🎉 Fun Fact (Easter Egg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
 </p>
 
----
-
-## 🧰 Featured Projects
-
-### 🚧 Ongoing
-- 🔗 [School Assignment Tracker](https://github.com/programmer-sakthi/school-assignment-tracker) — Smart assignment management using React + Spring Boot.
-
-### ✅ Notable
-- 🔗 [React Appointment App](https://github.com/programmer-sakthi/react-appointment-app) — A sleek appointment scheduling app built with React.
-- 🔗 [React Meetup App](https://github.com/programmer-sakthi/react-meetup-app) — Plan and organize meetups with ease using React.
-
----
-
-## 🎯 Expertise
-Focused on **building scalable UIs** and developing **robust full-stack apps** using React, Spring Boot, Node.js, and Express.js. I enjoy solving complex problems and experimenting with new technologies to build better software.
+> "My code runs perfectly on the first try." — Me, lying.
 
 ---
 
@@ -104,11 +149,6 @@ Focused on **building scalable UIs** and developing **robust full-stack apps** u
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🎉 Fun Fact
-I'm not just a coder — I also love reading books 📚 and exploring how tech intersects with real-life experiences!
 
 ---
 
