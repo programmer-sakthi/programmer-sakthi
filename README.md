@@ -1,54 +1,12 @@
 <h1 align="center">🎮 Sakthi Palanisamy - Full-Stack Dev Questline</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
   <b>💻 Software Developer | 🧠 Problem Solver | 🚀 Lifelong Learner</b><br/>
   <i>"Code. Build. Break. Learn. Repeat. Respawn if needed."</i>
-</p>
-
----
-
-## 🧙‍♂️ Level-Up Stats
-
-- 🧩 Solving logic puzzles IRL and in code
-- ⚔️ Frontend & Backend warrior (React, Spring Boot, Node.js)
-- 🎯 Code accuracy: 99.99% (crit hits included)
-- 💡 Loves side quests: dev tools, performance, UI/UX
-
----
-
-## 🏆 Trophy Wall of Awesomeness
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=programmer-sakthi&theme=radical&margin-w=10&no-frame=true"/>
-</p>
-
----
-
-## 🔥 Daily Dev Combo Meter
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=programmer-sakthi&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 📊 XP Charts
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer-sakthi&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-sakthi&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Commit Heatmap 🔥
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-sakthi&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -90,6 +48,24 @@
 
 ---
 
+## 🏆 Achievements & 🔥 Dev Combo Meter
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=programmer-sakthi&theme=radical&margin-w=10&no-frame=true" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=programmer-sakthi&theme=radical&hide_border=true" height="140"/>
+</p>
+
+---
+
+## 📊 GitHub XP Charts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmer-sakthi&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-sakthi&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
 ## 📜 Active Quests (Currently Learning)
 - 🧠 **Next.js**
 - 🐍 **Selenium Automation**
@@ -104,9 +80,10 @@
 ## 🚀 Current Missions
 
 ### 🔨 Ongoing
-- 🔗 [School Assignment Tracker](https://github.com/programmer-sakthi/school-assignment-tracker) — Manage assignments like a boss using React + Spring Boot.
+- 🔗 [School Assignment Tracker](https://github.com/programmer-sakthi/school-assignment-tracker)
 
 ### ✅ Completed Missions
+- 🔗 [DigiWardrobe](https://github.com/programmer-sakthi/DigiWardrobe)
 - 🔗 [React Appointment App](https://github.com/programmer-sakthi/react-appointment-app)
 - 🔗 [React Meetup App](https://github.com/programmer-sakthi/react-meetup-app)
 
@@ -121,24 +98,6 @@
 
 ---
 
-## 💬 Quote of the Day
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 🎉 Fun Fact (Easter Egg)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-</p>
-
-> "My code runs perfectly on the first try." — Me, lying.
-
----
-
 ## 📬 Connect With Me
 
 <p>
@@ -148,10 +107,4 @@
   <a href="mailto:sakthipalanisamy7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=programmer-sakthi&label=Visitors&color=0e75b6&style=flat" />
 </p>
