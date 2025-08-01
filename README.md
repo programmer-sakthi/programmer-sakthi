@@ -1,8 +1,16 @@
 <h1 align="center">👋 Hey there, I'm Sakthi Palanisamy</h1>
 
 <p align="center">
-  <b>💻 Software Developer | ⚛️ Front-End Enthusiast | 🚀 Lifelong Learner</b><br/>
+  <b>💻 Software Developer | 🧠 Problem Solver | 🚀 Lifelong Learner</b><br/>
   <i>“Code. Build. Break. Learn. Repeat.”</i>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=programmer-sakthi&theme=radical&margin-w=10&no-frame=true"/>
 </p>
 
 ---
@@ -18,26 +26,33 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages & Supersets
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🌐 Front-End
+### 🌐 Front-End Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 🗄️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -45,14 +60,20 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 <p>
-  Angular • Node.js • Cloud Deployment • System Design
+  Next.js • Selenium
+</p>
+
+---
+
+## 🧭 Planning to Learn
+<p>
+  Remix • Machine Learning • Cloud (AWS, Azure, etc.)
 </p>
 
 ---
@@ -69,7 +90,7 @@
 ---
 
 ## 🎯 Expertise
-Focused on **building dynamic UIs** with React and working on full-stack projects using Spring Boot. I love making intuitive, user-friendly applications and constantly push myself to learn new tools and techniques.
+Focused on **building scalable UIs** and developing **robust full-stack apps** using React, Spring Boot, Node.js, and Express.js. I enjoy solving complex problems and experimenting with new technologies to build better software.
 
 ---
 
@@ -90,3 +111,7 @@ Focused on **building dynamic UIs** with React and working on full-stack project
 I'm not just a coder — I also love reading books 📚 and exploring how tech intersects with real-life experiences!
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=programmer-sakthi&label=Visitors&color=0e75b6&style=flat" />
+</p>
