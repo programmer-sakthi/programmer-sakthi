@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sakthi
 
-### Full Stack Developer | React Developer | Problem Solver
+### Full Stack Developer 
 
 Building scalable web and mobile applications with React, Spring Boot, Node.js, and AWS.
 
